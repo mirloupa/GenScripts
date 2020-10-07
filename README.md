@@ -1,3 +1,3 @@
 # Scripts
 
-A collection of short scripts.
+A collection of useful scripts.
