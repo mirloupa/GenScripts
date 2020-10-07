@@ -1,4 +1,4 @@
-# Scripts from 'SGE' HPC.  
+# A collection of scripts from SGE-HPC.
 Submit job only after certain conditions are met (BLAST all vs all example).
 ```bash
 for file in /data2/scratch2/mirabl/Xf_proj/Xf_effector_prediction/20190125_preffector-res_ncbi-Xf46/Effectors/SEQ/*ID.faa; do
